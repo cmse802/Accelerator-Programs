@@ -1,0 +1,199 @@
+// === Convert from Yongjun Li's pylatt input 
+
+// === Element definition:
+MA0: HMONITOR,L=0.0;
+b1g3c01a:SBEND,  L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000;
+b1g3c30a:SBEND,  L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000;
+b1g5c01b:SBEND,  L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000;
+b1g5c30b:SBEND,  L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000;
+D0001:DRIFT, L = 0;
+D0002:DRIFT, L = 0.661071;
+D0003:DRIFT, L = 1.23;
+D0004:DRIFT, L = 0.325206;
+D0005:DRIFT, L = 0.33421;
+D0006:DRIFT, L = 0.085;
+D0007:DRIFT, L = 0.081;
+D0008:DRIFT, L = 0.1485;
+D0009:DRIFT, L = 0.1255;
+D0010:DRIFT, L = 0.328;
+D0011:DRIFT, L = 0.184;
+D0012:DRIFT, L = 0.186;
+D0013:DRIFT, L = 0.07602;
+D0014:DRIFT, L = 0.08998;
+D0015:DRIFT, L = 0.1137;
+D0016:DRIFT, L = 0.2848;
+D0017:DRIFT, L = 0.1815;
+D0018:DRIFT, L = 0.601;
+D0019:DRIFT, L = 0.3755;
+D0020:DRIFT, L = 0.2015;
+D0021:DRIFT, L = 0.2552;
+D0022:DRIFT, L = 0.3144;
+D0023:DRIFT, L = 0.0844;
+D0024:DRIFT, L = 0.184;
+D0025:DRIFT, L = 0.184;
+D0026:DRIFT, L = 0.328;
+D0027:DRIFT, L = 0.176;
+D0028:DRIFT, L = 0.26226;
+D0029:DRIFT, L = 0.08924;
+D0030:DRIFT, L = 0.2605;
+D0031:DRIFT, L = 0.716;
+D0032:DRIFT, L = 0.591;
+D0033:DRIFT, L = 0.07822;
+D0034:DRIFT, L = 0.08778;
+D0035:DRIFT, L = 0.2575;
+D0036:DRIFT, L = 0.3021;
+D0037:DRIFT, L = 0.244;
+D0038:DRIFT, L = 0.23125;
+D0039:DRIFT, L = 0.23475;
+D0040:DRIFT, L = 0.0783;
+D0041:DRIFT, L = 0.0877;
+D0042:DRIFT, L = 0.46852;
+D0043:DRIFT, L = 5.79716;
+D0044:DRIFT, L = 0.33432;
+D0045:DRIFT, L = 0.09;
+D0046:DRIFT, L = 0.076;
+D0047:DRIFT, L = 0.23475;
+D0048:DRIFT, L = 0.23125;
+D0049:DRIFT, L = 0.244;
+D0050:DRIFT, L = 0.3021;
+D0051:DRIFT, L = 0.2575;
+D0052:DRIFT, L = 0.09008;
+D0053:DRIFT, L = 0.07592;
+D0054:DRIFT, L = 0.591;
+D0055:DRIFT, L = 0.501;
+D0056:DRIFT, L = 0.2755;
+D0057:DRIFT, L = 0.2015;
+D0058:DRIFT, L = 0.2552;
+D0059:DRIFT, L = 0.3144;
+D0060:DRIFT, L = 0.0844;
+D0061:DRIFT, L = 0.184;
+D0062:DRIFT, L = 0.184;
+D0063:DRIFT, L = 0.328;
+D0064:DRIFT, L = 0.176;
+D0065:DRIFT, L = 0.26226;
+D0066:DRIFT, L = 0.08924;
+D0067:DRIFT, L = 0.2605;
+D0068:DRIFT, L = 0.327011;
+D0069:DRIFT, L = 0.388989;
+D0070:DRIFT, L = 0.36634;
+D0071:DRIFT, L = 0.21366;
+D0072:DRIFT, L = 0.0896;
+D0073:DRIFT, L = 0.0764;
+D0074:DRIFT, L = 0.186;
+D0075:DRIFT, L = 0.184;
+D0076:DRIFT, L = 0.5785;
+D0077:DRIFT, L = 0.2235;
+D0078:DRIFT, L = 0.08059;
+D0079:DRIFT, L = 0.08541;
+D0080:DRIFT, L = 0.4629;
+D0081:DRIFT, L = 4.1871;
+ch1xg2c30a: DRIFT L = 0;
+ch1xg6c01b: DRIFT L = 0;
+ch1yg2c30a: DRIFT L = 0;
+ch1yg6c01b: DRIFT L = 0;
+ch2xg2c30a: DRIFT L = 0;
+ch2xg6c01b: DRIFT L = 0;
+ch2yg2c30a: DRIFT L = 0;
+ch2yg6c01b: DRIFT L = 0;
+cl1xg2c01a: DRIFT L = 0;
+cl1xg6c30b: DRIFT L = 0;
+cl1yg2c01a: DRIFT L = 0;
+cl1yg6c30b: DRIFT L = 0;
+cl2xg2c01a: DRIFT L = 0;
+cl2xg6c30b: DRIFT L = 0;
+cl2yg2c01a: DRIFT L = 0;
+cl2yg6c30b: DRIFT L = 0;
+cm1xg4c01a: DRIFT L = 0;
+cm1xg4c01b: DRIFT L = 0;
+cm1xg4c30a: DRIFT L = 0;
+cm1xg4c30b: DRIFT L = 0;
+cm1yg4c01a: DRIFT L = 0;
+cm1yg4c01b: DRIFT L = 0;
+cm1yg4c30a: DRIFT L = 0;
+cm1yg4c30b: DRIFT L = 0;
+fh1g1c02a: DRIFT L = 0;
+fh2g1c30a: DRIFT L = 0;
+fl1g1c01a: DRIFT L = 0;
+fl2g1c01a: DRIFT L = 0;
+fm1g4c01a: DRIFT L = 0;
+fm1g4c30a: DRIFT L = 0;
+isbu3: DRIFT L = 0.65;
+isbu4: DRIFT L = 0.65;
+issp1d: DRIFT L = 0.799513;
+ph1g2c30a: HMONITOR,L=0.0;
+ph1g6c01b: HMONITOR,L=0.0;
+ph2g2c30a: HMONITOR,L=0.0;
+ph2g6c01b: HMONITOR,L=0.0;
+pl1g2c01a: HMONITOR,L=0.0;
+pl1g6c30b: HMONITOR,L=0.0;
+pl2g2c01a: HMONITOR,L=0.0;
+pl2g6c30b: HMONITOR,L=0.0;
+pm1g4c01a: HMONITOR,L=0.0;
+pm1g4c01b: HMONITOR,L=0.0;
+pm1g4c30a: HMONITOR,L=0.0;
+pm1g4c30b: HMONITOR,L=0.0;
+qh1:QUADRUPOLE, L = 0.268, K1 =     -0.64195731;
+qh2:QUADRUPOLE, L = 0.46, K1 =      1.43673057;
+qh3:QUADRUPOLE, L = 0.268, K1 =     -1.75355043;
+ql1:QUADRUPOLE, L = 0.268, K1 =     -1.61785474;
+ql2:QUADRUPOLE, L = 0.46, K1 =      1.76477357;
+ql3:QUADRUPOLE, L = 0.268, K1 =     -1.51868268;
+qm1:QUADRUPOLE, L = 0.247, K1 =     -0.81223482;
+qm2:QUADRUPOLE, L = 0.282, K1 =      1.22615466;
+sh1:SEXTUPOLE, L = 0.2, K2 =      19.09710400;
+sh3:SEXTUPOLE, L = 0.2, K2 =      -3.10963400;
+sh4:SEXTUPOLE, L = 0.2, K2 =     -19.49461000;
+sl1:SEXTUPOLE, L = 0.2, K2 =      -8.51443400;
+sl2:SEXTUPOLE, L = 0.2, K2 =      32.72035900;
+sl3:SEXTUPOLE, L = 0.2, K2 =     -27.55513600;
+//sl3:SEXTUPOLE, L = 0.2, K2 =     -14.55513600;
+sm1a:SEXTUPOLE, L = 0.2, K2 =    -26.21867845;
+sm1b:SEXTUPOLE, L = 0.2, K2 =    -28.01658206;
+sm2:SEXTUPOLE, L = 0.25, K2 =     30.69679902;
+sqhg2c30a:DRIFT, L = 0.1;
+sqmg4c01a:DRIFT, L = 0.1;
+W1: HMONITOR,L=0.0;
+
+// === Beam line sequence:
+
+testline: line=(D0001, B1G3C30A);
+ring: LINE = (MA0, W1,D0001, issp1d, D0002, isbu3, D0003, 
+  isbu4, D0004, fh2g1c30a, D0005, sh1, D0006, ph1g2c30a, D0007, qh1, D0008, 
+  sqhg2c30a, ch1xg2c30a, ch1yg2c30a, sqhg2c30a, D0009, 
+  D0010, qh2, D0011, sh3, D0012, qh3, D0013, ph2g2c30a, D0014, sh4, D0015, 
+  D0016, ch2xg2c30a, ch2yg2c30a, D0017, b1g3c30a, 
+  D0018, cm1xg4c30a, cm1yg4c30a, D0019, qm1, D0020, sm1a, D0021, fm1g4c30a, 
+  D0022, pm1g4c30a, D0023, qm2, D0024, sm2, D0025, qm2, D0026, 
+  D0027, sm1b, D0028, pm1g4c30b, D0029, qm1, D0030, cm1yg4c30b, 
+  cm1xg4c30b, D0031, b1g5c30b, D0032, ql3, D0033, pl2g6c30b, D0034, sl3, 
+  D0035, cl2yg6c30b, cl2xg6c30b, D0036, ql2, D0037, sl2, D0038, cl1yg6c30b, 
+  cl1xg6c30b, D0039, ql1, D0040, pl1g6c30b, D0041, sl1, D0042, fl1g1c01a, 
+  D0043, fl2g1c01a, D0044, sl1, D0045, pl1g2c01a, D0046, ql1, D0047, cl1xg2c01a, 
+  cl1yg2c01a, D0048, sl2, D0049, ql2, D0050, cl2xg2c01a, cl2yg2c01a, D0051, 
+  sl3, D0052, pl2g2c01a, D0053, ql3, D0054, b1g3c01a, D0055, sqmg4c01a, cm1xg4c01a, 
+  cm1yg4c01a, sqmg4c01a, D0056, qm1, D0057, sm1a, D0058, fm1g4c01a, D0059, 
+  pm1g4c01a, D0060, qm2, D0061, sm2, D0062, qm2, D0063, 
+  D0064, sm1b, D0065, pm1g4c01b, D0066, qm1, D0067, cm1yg4c01b, cm1xg4c01b, 
+  D0068, D0069, b1g5c01b, D0070, ch2yg6c01b, ch2xg6c01b, 
+  D0071, sh4, D0072, ph2g6c01b, D0073, qh3, D0074, sh3, D0075, qh2, D0076, 
+  ch1yg6c01b, ch1xg6c01b, D0077, qh1, D0078, ph1g6c01b, D0079, sh1, D0080, 
+  fh1g1c02a, D0081);
+
+//MA0: HMONITOR,L=0.0;
+//W1: HMONITOR,L=0.0;
+//RING: LINE=(MA0,W1,RING);
+
+//setup, line="ring", shared=false;&
+
+
+beam, mass:=0.511e-3, charge:=-1, gamma:=5870.84, exn:=1.0e-09, eyn:=1.0e-09, sige:=0.001; 
+
+
+use, period=testline;
+select, flag=twiss, column=name,s,betx,bety, mux, muy, dx;
+twiss,table=twiss,file=parameters_input, save;
+use,sequence=testline;
+ptc_create_universe;
+ptc_create_layout,model=1,method=2,exact,nst=40;
+ptc_normal,icase=4,no=7;
+ptc_end;
