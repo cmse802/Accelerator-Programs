@@ -36,4 +36,7 @@ doclint:
 test:
 	pytest -v $(MODULENAME)
 
+clean:
+	rm -rf docs
+
 .PHONY: init doc lint test 
