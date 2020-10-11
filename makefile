@@ -1,4 +1,4 @@
-MODULENAME = Accelerator-Programs 
+MODULENAME = Accelerator-Programs/main.py 
 
 help:
 	@echo ""

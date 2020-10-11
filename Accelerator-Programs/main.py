@@ -1,7 +1,7 @@
 import numpy as np
 
 def madx_out(lat, file):
-	"""Reads in the lattice to madx and runs the file in madx. Returns a matrix of info about the trial"""
+	"""Reads in the lattice to madx and runs the file in madx. Returns a matrix of info about the trial. TEST CHANGE"""
 	
 	results = np.zeros((2,2))
 	
