@@ -1,4 +1,4 @@
-MODULENAME = Accelerator-Programs/main.py 
+MODULENAME = Accelerator_Programs 
 
 help:
 	@echo ""
@@ -39,4 +39,4 @@ test:
 clean:
 	rm -rf docs
 
-.PHONY: init doc lint test 
+.PHONY: init docs lint test 
