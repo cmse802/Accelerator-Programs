@@ -1,0 +1,12 @@
+name: /home/kjanderson248/Documents/CMSE_802/Accelerator-Programs/envs
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pytest
+  - matplotlib
+  - jupyter
+  - pdoc3
+  - numpy
+  - pylint
+prefix: /home/kjanderson248/Documents/CMSE_802/Accelerator-Programs/envs
