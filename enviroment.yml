@@ -9,4 +9,6 @@ dependencies:
   - pdoc3
   - numpy
   - pylint
+  - sklearn
+  - cython
 prefix: /home/kjanderson248/Documents/CMSE_802/Accelerator-Programs/envs
