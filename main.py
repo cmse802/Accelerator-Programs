@@ -1,3 +1,5 @@
+'''Main accelerator program that...'''
+
 import numpy as np
 
 
@@ -22,3 +24,5 @@ class learn(object):
         new_results = np.zeros((2, 2))
 
         return new_results
+
+

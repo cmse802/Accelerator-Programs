@@ -1,0 +1,12 @@
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pytest
+  - matplotlib
+  - jupyter
+  - pdoc3
+  - numpy
+  - pylint
+  - scikit-learn
+  - cython
